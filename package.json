@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer",
+  "name": "smsg-puppeteer",
   "version": "1.0.0",
   "description": "",
   "main": "start.js",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rhtra/smsg-puppeteer/issues"
   },
-  "homepage": "https://github.com/rhtra/smsg-puppeteer#readme"
+  "homepage": "https://github.com/rhtra/smsg-puppeteer#readme",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "puppeteer": "^1.20.0"
+  }
 }
