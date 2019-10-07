@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhtra/smsg-puppeteer.git"
+  },
+  "author": "Arthur Buenaventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhtra/smsg-puppeteer/issues"
+  },
+  "homepage": "https://github.com/rhtra/smsg-puppeteer#readme"
+}
