@@ -4,4 +4,4 @@ git clone
 
 npm install
 
-node start.js <email> <password>
+node start.js #email# #password#
